@@ -1,0 +1,10 @@
+[
+  {
+    "package": "codep",
+    "oncran": true
+  },
+  {
+    "package": "MPSEM",
+    "oncran": true
+  }
+]
