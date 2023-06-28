@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "codep"]
 	path = codep
 	url = https://github.com/guenardg/codep
-	shallow = true
-	registered = true
 [submodule "MPSEM"]
 	path = MPSEM
 	url = https://github.com/guenardg/mpsem
-	shallow = true
-	registered = true
