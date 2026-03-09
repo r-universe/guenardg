@@ -8,3 +8,6 @@
 [submodule "codep"]
 	path = codep
 	url = https://github.com/guenardg/codep
+[submodule "pMEM"]
+	path = pMEM
+	url = https://github.com/guenardg/pmem
